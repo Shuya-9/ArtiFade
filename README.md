@@ -1,4 +1,4 @@
-# ArtiFade_CVPR2025
+# ArtiFade: Learning to Generate High-quality Subject from Blemished Images
 
 ## 📌 TODO
 - [ ] **Release dataset**
